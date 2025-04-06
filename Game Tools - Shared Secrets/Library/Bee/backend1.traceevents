@@ -1,6 +1,7 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ,{ "pid":12345, "tid":0, "ts":1743536231583014, "dur":2697, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1743536231585723, "dur":351, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1743536231586143, "dur":550, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
@@ -579,6 +580,8 @@
 ,{ "pid":12345, "tid":16, "ts":1743536231639163, "dur":6954, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1743536231797152, "dur":1344, "ph":"X", "name": "ProfilerWriteOutput" }
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 ,{ "pid":12345, "tid":0, "ts":1743967491566102, "dur":233, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
@@ -1674,6 +1677,9 @@
 ,{ "pid":12345, "tid":16, "ts":1743967492018458, "dur":6156773, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1743967498371017, "dur":5274, "ph":"X", "name": "ProfilerWriteOutput" }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
